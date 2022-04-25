@@ -1,6 +1,15 @@
 # ND1309 C2 Ethereum Smart Contracts, Tokens and Dapps - Project Starter 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
+
+### Submission Details
+ - Truffle v5.5.10
+ - OpenZeppelin ^2.3.0
+ - Token Name: GabilandToken
+ - Token Symbol: GBL
+ - Token Address: 0x3C8389253776D2667212B745EC2B9b2CbB977543
+
+
 ### ToDo
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
